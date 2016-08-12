@@ -256,3 +256,9 @@ p {
     width: 100%;
   }  
 }
+@media (max-width: 980px)
+{
+  .col-7-sm, .col-5-sm{
+    width: 100%;
+  }  
+}
